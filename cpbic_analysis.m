@@ -1,4 +1,4 @@
-function [Ns,state_para] = cp_analysis(data)
+function [Ns,state_para] = cpbic_analysis(data)
 
 % Determine the number of states and state parameters from input trajectory.
 
