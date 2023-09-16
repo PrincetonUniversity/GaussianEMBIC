@@ -2,7 +2,7 @@ function cp = findcp(data)
 
 % To find change points from the input trajectory. 
 
-% cp: array of the index of idnetified change points. 
+% cp: array of the index of identified change points. 
 % data: raw trajectory.
 
 int=cell(1);
